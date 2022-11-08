@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @ashutosh-sharma-xi
-- 👀 I’m interested in Data science, AI, Finance, Marketing Bike Riding and Exploring Places
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me ... linkedIn -@ashutosh_sharma_xi
-
-<!---
-ashutosh-sharma-xi/ashutosh-sharma-xi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In 2022 I find Myself as an Ambitios, Bodacious and Creative guy who is currently a Data Science Enthusiast and looking for someone to help in taking Data Driven Decisions.
+possess good interest in Finance, Marketing, Biology, Bike riding and Exploring new places.
+Can be reached at Linkedin @ashutosh-sharma-xi
+Gmail @ashutosh0626@gmail.com
