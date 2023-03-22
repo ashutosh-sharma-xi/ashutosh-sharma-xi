@@ -3,3 +3,5 @@ possess huge interest in Technology, Finance, Marketing, Biology
 Love to Ride Bike and Exploring new places.
 Can be reached at Linkedin @ashutosh-sharma-xi
 Gmail @ashutosh0626@gmail.com
+
+[![Build and deploy Python app to Azure Web App - book-recomendation-system](https://github.com/ashutosh-sharma-xi/Book_Recommendation_System/actions/workflows/deploy_book-recomendation-system.yml/badge.svg?branch=deploy)](https://github.com/ashutosh-sharma-xi/Book_Recommendation_System/actions/workflows/deploy_book-recomendation-system.yml)
