@@ -17,7 +17,7 @@ I am excited to connect with other professionals who share similar interests and
 
 You can reach me at:
 
-* **LinkedIn:** @ashutosh-sharma-xi
+* **LinkedIn:** [@ashutosh-sharma-xi](https://www.linkedin.com/in/ashutoshsharma-xi/)
 * **Email:** ashutosh0626@gmail.com
 
 
