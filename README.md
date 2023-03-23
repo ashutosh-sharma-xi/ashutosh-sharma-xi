@@ -1,5 +1,5 @@
 
-## **Ashutosh's LinkedIn Profile**  
+## **Ashutosh's Profile**  
 
 **Welcome to my LinkedIn profile!** 
 I am Ashutosh, an ***ambitious***, ***bodacious***, and ***creative*** data science enthusiast. I am actively seeking opportunities in the field where I can utilize my skills and knowledge to make an impact.
