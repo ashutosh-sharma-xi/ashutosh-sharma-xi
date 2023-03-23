@@ -17,9 +17,8 @@ I am excited to connect with other professionals who share similar interests and
 
 You can reach me at:
 
-LinkedIn
-Gmail
-
+* **LinkedIn:** @ashutosh-sharma-xi
+* **Email:** ashutosh0626@gmail.com
 
 
 [![Build and deploy Python app to Azure Web App - book-recomendation-system](https://github.com/ashutosh-sharma-xi/Book_Recommendation_System/actions/workflows/deploy_book-recomendation-system.yml/badge.svg?branch=deploy)](https://github.com/ashutosh-sharma-xi/Book_Recommendation_System/actions/workflows/deploy_book-recomendation-system.yml)
