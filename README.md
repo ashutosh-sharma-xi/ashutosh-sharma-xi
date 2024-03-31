@@ -22,3 +22,5 @@ You can reach me at:
 
 
 [![Build and deploy Python app to Azure Web App - book-recomendation-system](https://github.com/ashutosh-sharma-xi/Book_Recommendation_System/actions/workflows/deploy_book-recomendation-system.yml/badge.svg?branch=deploy)](https://github.com/ashutosh-sharma-xi/Book_Recommendation_System/actions/workflows/deploy_book-recomendation-system.yml)
+
+[![Deploy AWS CDK](https://github.com/ashutosh-sharma-xi/data_pipeline_automation/actions/workflows/data_pipeline.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/ashutosh-sharma-xi/data_pipeline_automation/actions/workflows/data_pipeline.yml)
