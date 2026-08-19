@@ -1,6 +1,6 @@
 ## hey, I'm Ashutosh
 
-Data engineer in Mumbai. I build things that move data around and then
+An experienced Data engineer. I build things that move data around and then
 spend most of my time on the part where it breaks.
 
 ### the day job
