@@ -1,26 +1,63 @@
+## hey, I'm Ashutosh
 
-## **Ashutosh's Profile**  
+Data engineer in Mumbai. I build things that move data around and then
+spend most of my time on the part where it breaks.
 
-**Welcome to my LinkedIn profile!** 
-I am Ashutosh, an ***ambitious***, ***bodacious***, and ***creative*** data science enthusiast. I am actively seeking opportunities in the field where I can utilize my skills and knowledge to make an impact.
+### the day job
 
-## **About Me**  
+Marketing attribution at Fospha. Ad platform data in, models out.
 
-Apart from my love for data science, I am also enthusiastic about new ***tech-savvy things***, ***marketing***, and ***entrepreneurship***. I believe in staying up-to-date with the latest trends and innovations in these fields, which is essential to succeed in today's fast-paced world.
+Most of it is dbt and AWS. We've got a big dbt project — big enough that
+it stopped being one project and had to become four, which I spent a
+chunk of last year doing. Turns out splitting a monorepo is 20% modelling
+and 80% getting people to agree on who owns what. Nobody warns you about
+that part.
 
-When I'm not working or learning data science, I enjoy ***bike riding*** and ***exploring new places and people***. ***Traveling*** is one of my favorite pastimes as it allows me to learn new things and broaden my perspective.
+The other half is ingestion. Fivetran where it works, custom Lambda
+connectors where it doesn't. I've written enough of these to have gotten
+opinionated about keeping vendor-specific weirdness at the edges, because
+every ad platform API is strange in its own particular way and you really
+don't want that leaking into your core logic.
 
-Moreover, I possess good ***problem-solving*** and ***team-building skills***, which have been honed through my academic and personal experiences. I am confident that these skills, combined with my passion for ***data science***, make me a valuable addition to any team.
+Things I've ended up caring about:
 
-Contact Me
-I am excited to connect with other professionals who share similar interests and goals. Let's connect and explore how we can collaborate and learn from each other!
+- monitoring and freshness checks — I'd rather my alerting tell me a
+  table is stale than have a client tell me the numbers look wrong
+- fast CI, because slow CI quietly changes how people work
+- the gap between "the pipeline ran" and "the pipeline was correct"
 
-You can reach me at:
+`Python` `SQL` `dbt` `AWS` `Databricks` `PySpark` `Fivetran` `Docker`
 
-* **LinkedIn:** [@ashutosh-sharma-xi](https://www.linkedin.com/in/ashutoshsharma-xi/)
-* **Email:** ashutosh0626@gmail.com
+### the other thing
 
+I'm building a D2C setup for FMCG staples — flour, oil, spices. The
+premise is that the distributor → super-stockist → retailer chain adds a
+lot of markup for people who are buying almost purely on price. Go
+direct, let software handle the parts middlemen were being paid for —
+demand signals, replenishment, routing orders to the right fulfilment
+point — and some of that margin can go back to the customer.
 
-[![Build and deploy Python app to Azure Web App - book-recomendation-system](https://github.com/ashutosh-sharma-xi/Book_Recommendation_System/actions/workflows/deploy_book-recomendation-system.yml/badge.svg?branch=deploy)](https://github.com/ashutosh-sharma-xi/Book_Recommendation_System/actions/workflows/deploy_book-recomendation-system.yml)
+That's the theory, anyway. Distribution networks do real work — credit,
+breaking bulk, last mile — so it's a premise I'm testing rather than one
+I've proven. In practice I've spent most of my time on unglamorous
+things: catalog data, SEO, and learning how people actually search for
+atta.
 
-[![Deploy AWS CDK](https://github.com/ashutosh-sharma-xi/data_pipeline_automation/actions/workflows/data_pipeline.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/ashutosh-sharma-xi/data_pipeline_automation/actions/workflows/data_pipeline.yml)
+It's been a useful reality check on the day job. Having your own revenue
+depend on a data pipeline changes how you feel about data quality.
+
+### otherwise
+
+Messing with local LLMs and voice interfaces lately — mostly to find out
+how far you can get without an API bill. Bikes, when there's time. I
+started a data science club at university that got to 400-odd people, and
+I still do interviews and code reviews at work, which I like more than I
+expected to.
+
+### repos
+
+Mostly older personal projects — a serverless ETL pipeline on AWS, a
+collaborative filtering recommender, some clustering work on Netflix
+data. Day job code isn't public.
+
+ashutosh0626@gmail.com · [LinkedIn](https://linkedin.com/in/ashutoshsharma-xi)
